@@ -1,0 +1,19 @@
+#button{
+	text-align:center
+}
+			
+#small{
+	font-size:0.7em
+}
+#cvv	{
+	
+	padding-left:3em
+}
+main	{
+	width:400px;
+	text-align:left;
+	margin:0 auto 0 auto;
+	border-width:0.3em;
+	border-style: outset;
+	border-color:blue
+}

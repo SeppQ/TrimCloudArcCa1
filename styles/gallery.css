@@ -1,0 +1,53 @@
+td img {
+	width: 50px	;	
+}
+td {
+	border: 1px #336600 solid;
+}
+table {
+	border: 5px solid #009933;
+	float:right;		
+}
+#gallery	{
+	height:281px;
+	width:500px;
+	border-width:0.5em;
+	border-style: outset;
+	border-color:#009933;
+}
+article	{
+	background-color:#99ff99;
+}
+main	{
+	background-color:#99ff99;
+}
+footer	{
+	background-color:#66ff66;
+}
+nav {
+	background-color:#009933;
+	border-color:#336600;
+}
+nav a {
+	display: block;
+	color:#003300;
+	background-color:#009933;
+}
+a:hover {
+	color:#99ff33;
+}
+#youtube{
+	height:281px;
+	width:500px;
+	border-width:0.5em;
+	border-style: outset;
+	border-color:#009933;
+}
+hr { 
+    display: block;
+    border-width: 2px;
+	border-color:#336600
+}
+h1,h2	{
+	text-shadow: 2px 2px #009933;
+}

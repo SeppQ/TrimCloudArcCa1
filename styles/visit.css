@@ -1,0 +1,17 @@
+#button{
+	text-align:center
+}
+			
+#small{
+	font-size:0.7em
+}
+#cvv	{
+	padding-left:3em
+}
+main	{
+	text-align:left;
+}
+.identity	{
+	width: 150px;
+	display:inline-block;
+}

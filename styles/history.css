@@ -1,0 +1,43 @@
+#section ul  {
+	list-style-image:url(../images/icon.png)
+}
+#trimcastle	{
+	float:right;
+	width:80px;
+}
+#churchruins {
+	float:right;
+	width:80px;
+}
+h1	{
+	text-align:center;
+}
+article	{
+	background-color:#ff9999;
+}
+main	{
+	background-color:#ff9999;
+}
+footer	{
+	background-color:#ff5050;
+}
+nav {
+	background-color:#cc0000;
+	border-color:#800000;
+}
+nav a {
+	display: block;
+	color:#ff99cc;
+	background-color:#cc0000;
+}
+a:hover {
+	color:#0000ff;
+}
+hr { 
+    display: block;
+    border-width: 2px;
+	border-color:#800000
+}
+h1,h4	{
+	text-shadow: 2px 2px #cc0000;
+}

@@ -1,0 +1,38 @@
+h1,h2	{
+	text-align:center
+}
+#map {
+	width:200px;
+	float:left;
+}
+#direction:hover	{
+	color:red;
+	font-size:20px;
+}
+li:hover {
+	background-color:#4da6ff;
+	font-size:20px;
+}
+li	{
+	display:inline-block;
+	position: relative;
+	width:100px;
+	background-color: white;
+	text-align: canter
+}
+nav a {
+	display: block;
+	color:#33ffff;
+	background-color:#4da6ff;
+}
+a:hover {
+	color:#0000ff;
+}
+hr { 
+    display: block;
+    border-width: 2px;
+	border-color:#004d99
+}
+h1,h2,h4	{
+	text-shadow: 2px 2px #4da6ff;
+}

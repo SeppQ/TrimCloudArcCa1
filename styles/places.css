@@ -1,0 +1,38 @@
+#supertrim {
+	float:right;
+
+}
+#section ul  {
+	list-style-image:url(../images/icon.png)
+}
+#souhans	{
+	float:right;
+	padding-right:1.5em;
+}
+#malthouse	{
+	float:right
+}
+article	{
+	background-color:#ffffcc;
+}
+main	{
+	background-color:#ffffcc;
+}
+footer	{
+	background-color:#ffff99;
+}
+nav {
+	background-color:#ffff99;
+	border-color:#ffff00;
+}
+nav a {
+	display: block;
+	color:#663300;
+	background-color:#ffff99;
+}
+a:hover {
+	color:#cc6600;
+}
+h1,h2	{
+	text-shadow: 2px 2px #ffff00;
+}
